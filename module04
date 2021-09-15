@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Module 04 Lab/title>
+    <meta charset="utf-8"
+</head>
+<body>
+    <header>
+        <h1>What an Ugly Page</h1>
+        <h3>There's plenty of room for growth</h3>
+    <nav>
+        <ul>
+            <li>one</li>
+            <li>two</li>
+            <li><ul>
+                <li>three</li>
+                <li>four</li>
+            </ul></li>
+            <li><ul>
+                <li>five</li>
+                <li>six</li>
+            </ul></li>
+        </ul>
+    </nav>
+    </header>
+    <main>
+        <dl>
+            <dt>item one</dt>
+            <dd>description</dd>
+            <dt>item two</dt>
+            <dd>description</dd>
+            <dt>item three</dt>
+            <dd>description</dd>
+            <dt>item four</dt>
+            <dd>description</dd>
+            <dt>item five</dt>
+            <dd>description</dd> 
+        </dl>
+    </main>
+    <footer>
+        <small><i>Copyright &copy; Casey Sova</i></small>
+    </footer>
+</body>
+</html>

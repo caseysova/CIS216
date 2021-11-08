@@ -9,9 +9,4 @@ nav a:link { color: #FEF6C2; }
 nav a:visited { color: #D2B48C }
 nav a:hover { color: #CC9933; }
 aside { float: right; width: 200px; padding: 20px; margin-right: 40px; font-size: 80%; }
-main { padding-left: 0em;
-     padding-right: 0em;
-     padding-bottom: 2em;
-     padding-top: 0em;
-     background-color: #FEF6C2;
-}
+main { padding-left: 0em; padding-right: 0em; padding-bottom: 2em; padding-top: 0em; background-color: #FEF6C2; }

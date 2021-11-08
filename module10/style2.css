@@ -15,8 +15,4 @@ main { padding-left: 0em;
      padding-top: 0em;
      margin-left: 200px;
      background-color: #FEF6C2;
-    }
-.details { padding-left: 20%; padding-right: 20%; overflow: auto; }
-img { padding-left: 10px; padding-right: 10px; }
-.floatleft {float: left; padding-right: 2em; padding-bottom: 2em; }
-header, nav, main, footer { display: block; }
+}

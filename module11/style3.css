@@ -6,8 +6,8 @@
 .blue { background-color: blue; grid-area: blue; }
 .violet { background-color: violet; grid-area: violet; }
 .purple { background-color: purple; grid-area: purple; }
-.black { background-color: black; grid-row: 1 / 9; grid-column: 1 / 9; grid-area: black; }
-.white { background-color: white; grid-row: 2 / 8; grid-column: 2 / 8; grid-area: white; }
+.black { background-color: black; grid-row: 1/9; grid-column: 1/9; grid-area: black; }
+.white { background-color: white; grid-row: 2/8; grid-column: 2/8; grid-area: white; }
 body { display: grid;
     grid-template-columns: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
     grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;

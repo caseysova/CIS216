@@ -1,12 +1,12 @@
 body { background-color: lightgray; color: black; font-family: Verdana, Arial, sans-serif; }
-header { background-color: gray; text-align: center; }
-h1 { line-height: 200%; }
+header { background-color: gray; text-align: left; }
+h1 { line-height: 100%; }
 nav { text-align: center; font-weight: bold; }
 footer { background-color: gray; font-size: .60em; font-style: italic; text-align: center; }
 #wrapper { width: 80%; margin-right: auto; margin-left: auto; }
 nav a { text-decoration: none; }
 nav a:link { color: white; }
 nav a:visited { color: lightskyblue; }
-nav a:hover { color: lightblue; }
-aside { float: right; width: 200px; padding: 20px; font-size: 80%; background-color: white; }
+nav a:hover { color: lightskyblue; }
+aside { float: right; width: 200px; font-size: 80%; background-color: white; }
 main { font-size: 80%; background-color: lightblue; }

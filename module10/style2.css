@@ -1,12 +1,12 @@
-body { background-color: lightblue; color: #221811; font-family: Verdana, Arial, sans-serif; }
-header { background-color: #d2b48c; text-align: center; }
+body { background-color: lightgray; color: black; font-family: Verdana, Arial, sans-serif; }
+header { background-color: gray; text-align: center; }
 h1 { line-height: 200%; }
 nav { text-align: center; font-weight: bold; }
-footer { background-color: #d2b48c; font-size: .60em; font-style: italic; text-align: center; }
+footer { background-color: gray; font-size: .60em; font-style: italic; text-align: center; }
 #wrapper { width: 80%; margin-right: auto; margin-left: auto; }
 nav a { text-decoration: none; }
-nav a:link { color: #FEF6C2; }
-nav a:visited { color: #D2B48C }
-nav a:hover { color: #CC9933; }
-aside { float: right; width: 200px; padding: 20px; font-size: 80%; background-color: #CC9933; }
-main { font-size: 80%; background-color: lightgray; }
+nav a:link { color: white; }
+nav a:visited { color: lightskyblue; }
+nav a:hover { color: lightblue; }
+aside { float: right; width: 200px; padding: 20px; font-size: 80%; background-color: white; }
+main { font-size: 80%; background-color: lightblue; }

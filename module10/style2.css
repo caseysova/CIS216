@@ -8,5 +8,5 @@ nav a { text-decoration: none; }
 nav a:link { color: white; }
 nav a:visited { color: lightskyblue; }
 nav a:hover { color: lightblue; }
-aside { width: 200px; padding: 20px; font-size: 80%; background-color: white; }
+aside { float: right; width: 200px; padding: 20px; font-size: 80%; background-color: white; }
 main { font-size: 80%; background-color: lightblue; }

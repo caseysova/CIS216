@@ -12,4 +12,4 @@ aside { float: right; width: 250px; font-size: 80%; background-color: white; }
 main { font-size: 80%; background-color: lightblue; }
 main h3 { text-align: center; }
 img { padding-left: 10px; padding-right: 10px; }
-.center { display: block; margin-right: auto; margin-left: auto; width: 50% }
+.center { display: block; margin-right: auto; margin-left: auto; }

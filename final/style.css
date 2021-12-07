@@ -6,7 +6,7 @@ nav a:link { color: white; }
 nav a:visited { color: lightskyblue; }
 nav a:hover { color: lightskyblue; }
 main { background-color: lime; grid-area: main }
-aside { background-color: cyan; grid-area: aside; }
+aside { background-color: cyan; grid-area: aside; float: right;}
 footer { background-color: purple; grid-area: footer; }
 table { width: 90%; margin: auto; border-spacing: 0px; background-color: transparent;}
 td, th { padding: 10px; }

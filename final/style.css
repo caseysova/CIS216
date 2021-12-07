@@ -6,7 +6,7 @@ nav a:link { color: white; }
 nav a:visited { color: lightskyblue; }
 nav a:hover { color: lightskyblue; }
 main { background-color: lime; grid-area: main }
-aside { background-color: cyan; grid-area: aside; float: right;}
+aside { background-color: cyan; grid-area: aside; }
 footer { background-color: purple; grid-area: footer; }
 table { width: 90%; margin: auto; border-spacing: 0px; background-color: transparent;}
 td, th { padding: 10px; }
@@ -24,8 +24,8 @@ td, th { padding: 10px; }
     grid-template-columns: 3fr 1fr;
     grid-template-rows: auto auto 1fr auto;
     grid-template-areas: 
-        "header" "header"
-        "nav" "nav"
-        "main" "aside"
-        "footer" "footer";
+        "header header"
+        "nav nav"
+        "main aside"
+        "footer footer";
 }

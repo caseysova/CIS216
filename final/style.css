@@ -2,7 +2,7 @@ body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final
     color: black; 
     font-family: Verdana, Arial, sans-serif; 
 }
-header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/cloudheader.jpeg?raw=true); grid-area: header; }
+header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/headerclouds.jpeg?raw=true); grid-area: header; }
 nav { background-color: #A6D0E2; grid-area: nav }
 nav a { text-decoration: none; text-align: left; }
 nav ul { list-style-type: none; }

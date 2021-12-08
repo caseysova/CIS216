@@ -4,10 +4,10 @@ body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final
 }
 header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/cloudheader.jpeg?raw=true); grid-area: header; }
 nav { background-color: #A6D0E2; grid-area: nav }
-nav a { text-decoration: none; text-align: center; }
+nav a { text-decoration: none; text-align: left; }
 nav ul { list-style-type: none; }
-nav a:link { color: whitesmoke; }
-nav a:visited { color: #56C188; }
+nav a:link { color: black; }
+nav a:visited { color: #6397D2; }
 nav a:hover { color: #56C188; }
 main { background-color: #D4E4E5; grid-area: main }
 main h2 { text-align: center; }

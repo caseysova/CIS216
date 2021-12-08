@@ -2,10 +2,10 @@ body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final
     color: black; 
     font-family: Verdana, Arial, sans-serif; 
 }
-header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/headerclouds.jpeg?raw=true); grid-area: header; }
+header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/headerpicture.jpeg?raw=true); grid-area: header; }
 nav { background-color: #A6D0E2; grid-area: nav }
-nav a { text-decoration: none; text-align: left; }
-nav ul { list-style-type: none; }
+nav a { text-decoration: none; }
+nav ul { list-style-type: none; padding-left: 0em; }
 nav a:link { color: black; }
 nav a:visited { color: #6397D2; }
 nav a:hover { color: #56C188; }

@@ -5,11 +5,11 @@ body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final
 header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/headerpicture.jpeg?raw=true); grid-area: header; }
 nav { background-color: #A6D0E2; grid-area: nav }
 nav a { text-decoration: none; }
-nav ul { list-style-type: none; padding-left: 0em; }
+nav ul { list-style-type: none; padding-left: 2em; }
 nav a:link { color: black; }
 nav a:visited { color: #6397D2; }
 nav a:hover { color: #56C188; }
-main { background-color: #D4E4E5; grid-area: main }
+main { background-color: whitesmoke; grid-area: main }
 main h2 { text-align: center; }
 aside { background-color: #B8E6CD; grid-area: aside; }
 aside h3 { text-align: center; }
@@ -41,3 +41,4 @@ td, th { padding: 10px; }
         "nav main aside"
         "footer footer footer";
 }
+

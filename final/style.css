@@ -1,16 +1,21 @@
-body { background-color: lightgray; color: black; font-family: Verdana, Arial, sans-serif; }
-header { background-color: red; grid-area: header; }
-nav { background-color: orange; grid-area: nav }
-nav a { text-decoration: none; background-color: gray; }
-nav a:link { color: white; }
-nav a:visited { color: lightskyblue; }
-nav a:hover { color: lightskyblue; }
-main { background-color: lime; grid-area: main }
-aside { background-color: cyan; grid-area: aside; }
-footer { background-color: purple; grid-area: footer; }
+body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/more-leaves-on-green.png?raw=true); 
+    color: black; 
+    font-family: Verdana, Arial, sans-serif; 
+}
+header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/header.jpg?raw=true); grid-area: header; }
+nav { background-color: whitesmoke; text-align: left; grid-area: nav }
+nav a { text-decoration: none; }
+nav a:link { color: #D4E4E5; }
+nav a:visited { color: #B8E6CD; }
+nav a:hover { color: #B8E6CD; }
+main { background-color: #D4E4E5; grid-area: main }
+main h2 { text-align: center; }
+aside { background-color: #B8E6CD; grid-area: aside; }
+aside h3 { text-align: center; }
+footer { background-color: #56C188; font-style: italic; text-align: center; grid-area: footer; }
 table { width: 90%; margin: auto; border-spacing: 0px; background-color: transparent;}
 td, th { padding: 10px; }
-.altrow { background-color: #D2B48E; }
+.altrow { background-color: #A6D0E2; }
 #wrapper { width: 80%;
     margin-right: auto;
     margin-left: auto;
@@ -20,7 +25,7 @@ td, th { padding: 10px; }
     box-shadow: 5px 5px 5px;
 }
 #homepage { display: grid;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 0.5fr 4.5fr;
     grid-template-rows: auto 1fr auto;
     grid-template-areas: 
         "header header"
@@ -35,4 +40,3 @@ td, th { padding: 10px; }
         "nav main aside"
         "footer footer footer";
 }
-

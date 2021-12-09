@@ -3,9 +3,9 @@ body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final
     font-family: Verdana, Arial, sans-serif; 
 }
 header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/headerpicture.jpeg?raw=true); 
-    padding-left: 5em;
     grid-area: header; 
 }
+h1 { padding-left: 10em; }
 nav { background-color: #88E5EC; grid-area: nav }
 nav a { text-decoration: none; }
 nav ul { list-style-type: none; padding-left: 1em; }

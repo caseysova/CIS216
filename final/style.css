@@ -12,6 +12,7 @@ nav a:hover { color: #56C188; }
 main { background-color: #D3DCDC; grid-area: main }
 main h2 { text-align: center; }
 main p { padding: 5px; }
+.center { display: block; margin-right: auto; margin-left: auto; }
 aside { background-color: #B8E6CD; grid-area: aside; }
 aside h3 { text-align: center; }
 footer { background-color: #56C188; font-style: italic; text-align: center; grid-area: footer; }
@@ -42,5 +43,3 @@ td, th { padding: 10px; }
         "nav main aside"
         "footer footer footer";
 }
-
-

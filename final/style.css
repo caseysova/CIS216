@@ -18,7 +18,7 @@ aside h3 { text-align: center; }
 footer { background-color: #56C188; font-style: italic; text-align: center; grid-area: footer; }
 table { width: 90%; margin: auto; border-spacing: 0px; background-color: transparent;}
 td, th { padding: 10px; }
-.altrow { background-color: #88E5EC; }
+.altrow { background-color: #489ed8; }
 #wrapper { width: 80%;
     margin-right: auto;
     margin-left: auto;

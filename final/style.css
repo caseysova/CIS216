@@ -9,7 +9,7 @@ nav ul { list-style-type: none; padding-left: 1em; }
 nav a:link { color: black; }
 nav a:visited { color: #489ed8; }
 nav a:hover { color: #56C188; }
-main { background-color: #D3DCDC; grid-area: main }
+main { background-color: #EEF7F7; grid-area: main }
 main h2 { text-align: center; }
 main p { padding: 5px; }
 .center { display: block; margin-right: auto; margin-left: auto; }

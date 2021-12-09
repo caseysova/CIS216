@@ -16,7 +16,6 @@ main { background-color: #EEF7F7; grid-area: main }
 main h2 { text-align: center; }
 main p { padding: 5px; }
 .center { display: block; margin-right: auto; margin-left: auto; }
-.centervid { display: block; margin-right: auto; margin-left: auto; padding-bottom: 2em; }
 aside { background-color: #B8E6CD; grid-area: aside; }
 aside h3 { text-align: center; }
 footer { background-color: #56C188; font-style: italic; text-align: center; grid-area: footer; }

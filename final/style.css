@@ -5,7 +5,7 @@ body { background-image: url(https://github.com/caseysova/CIS216/blob/main/final
 header { background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/headerpicture.jpeg?raw=true); 
     grid-area: header; 
 }
-h1 { padding-left: 10em; }
+h1 { padding-left: 3em; }
 nav { background-color: #88E5EC; grid-area: nav }
 nav a { text-decoration: none; }
 nav ul { list-style-type: none; padding-left: 1em; }

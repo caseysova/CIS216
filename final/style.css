@@ -47,7 +47,7 @@ td, th { padding: 10px; }
         "footer footer footer";
 }
 /*for mobile CSS*/
-@media only screen and (max-width: 555px) {
+@media only screen and (max-width: 599px) {
     #homepage {
         display: grid;
         grid-template-columns: 1fr;

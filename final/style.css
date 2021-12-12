@@ -76,9 +76,6 @@ td, th { padding: 10px; }
         background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/junimo2.png?raw=true);
         height: 80px;
         width: 80px;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
     }
     main {
         background-color: purple;

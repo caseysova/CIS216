@@ -46,7 +46,8 @@ td, th { padding: 10px; }
         "nav main aside"
         "footer footer footer";
 }
-@media only screen and (max-width: 599px) {
+/*for mobile CSS*/
+@media only screen and (max-width: 555px) {
     #homepage {
         display: grid;
         grid-template-columns: 1fr;
@@ -73,6 +74,7 @@ td, th { padding: 10px; }
         font-weight: bold;
     }        
 }
+/*for desktop CSS*/
 @media only screen and (min-width: 1200px) {
     #junimo {
         background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/junimo2.png?raw=true);
@@ -84,3 +86,4 @@ td, th { padding: 10px; }
         margin-right: auto;
     }
 }
+

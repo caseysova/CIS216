@@ -77,6 +77,9 @@ td, th { padding: 10px; }
         background-size: 100% 100%;
         height: 80px;
         width: 80px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
     }
     main {
         background-color: purple;

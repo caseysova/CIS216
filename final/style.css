@@ -74,6 +74,7 @@ td, th { padding: 10px; }
 @media only screen and (min-width: 1200px) {
     #junimo {
         background-image: url(https://github.com/caseysova/CIS216/blob/main/final/image/junimo2.png?raw=true);
+        background-size: 100% 100%;
         height: 80px;
         width: 80px;
     }

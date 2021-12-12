@@ -72,7 +72,7 @@ td, th { padding: 10px; }
     }
     nav {
         text-align: center;
-        font-size: 1em;
+        font-size: 2em;
     }        
 }
 @media only screen and (min-width: 1200px) {

@@ -60,7 +60,7 @@ td, th { padding: 10px; }
     #contentpage {
         display: grid;
         grid-template-columns: 3fr 1fr;
-        grid-template-rows: auto 0.5fr 4fr auto;
+        grid-template-rows: auto 0.25fr 4fr auto;
         grid-template-areas: 
             "header header"
             "nav nav"

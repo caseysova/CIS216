@@ -18,7 +18,7 @@ main p { padding: 5px; }
 .center { display: block; margin-right: auto; margin-left: auto; }
 aside { background-color: #B8E6CD; grid-area: aside; }
 aside h3 { text-align: center; }
-footer { background-color: #56C188; font-style: italic; text-align: center; grid-area: footer; }
+footer { background-color: #56C188; font-style: italic; text-align: center; grid-area: footer; font-size: .80em; }
 table { width: 90%; margin: auto; border-spacing: 0px; background-color: transparent;}
 td, th { padding: 10px; }
 .altrow { background-color: #489ed8; }
@@ -47,7 +47,7 @@ td, th { padding: 10px; }
         "footer footer footer";
 }
 /*for mobile CSS*/
-@media only screen and (max-width: 599px) {
+@media only screen and (max-width: 555px) {
     #homepage {
         display: grid;
         grid-template-columns: 1fr;
@@ -86,4 +86,3 @@ td, th { padding: 10px; }
         margin-right: auto;
     }
 }
-
